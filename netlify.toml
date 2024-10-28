@@ -6,5 +6,5 @@
   package = "@netlify/plugin-nextjs"
 
 [build.environment]
-  NEXT_PUBLIC_API_URL = "https://your-backend-url.run.app"
+  NEXT_PUBLIC_API_URL = "your-cloud-run-backend-url"
   CI = "false"
